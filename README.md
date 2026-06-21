@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdo Reda</h1>
 
-<!--
-**Abdoredaeid11/Abdoredaeid11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend Laravel Developer 🇪🇬
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- Laravel Developer  
+- Backend Systems Lover  
+- Learning AWS & Data Engineering  
+- I love building real-world applications  
+
+---
+
+## 🛠 Tech Stack
+PHP • Laravel • MySQL • Git • Linux
+
+---
+
+## 📫 Contact
+Email: your-email@gmail.com
